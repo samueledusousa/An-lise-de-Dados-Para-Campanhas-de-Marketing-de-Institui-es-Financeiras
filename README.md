@@ -25,9 +25,8 @@ Demonstrar habilidades em análise de dados com Python.
 
 🛠 Tecnologias Utilizadas
 Python: Pandas, NumPy, Matplotlib, Seaborn
-Excel / Google Sheets: Tratamento de dados e relatórios
+Excel: Tratamento de dados e relatórios
 Jupyter Notebook: Documentação interativa do processo
-SQL (opcional): Extração de dados de bancos de dados fictícios
 
 📊 Principais Análises
 Distribuição de clientes por idade, gênero e região.
